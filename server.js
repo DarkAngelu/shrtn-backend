@@ -100,7 +100,7 @@ app.listen(port, () => {
 // so as to keep it alive and not to get killed
 // on the free tier of render.com
 
-const url = `https://shrtn-etj2.onrender.com/`; // Replace with your Render URL
+const url = `https://shrtn-gj9w.onrender.com/`; // Replace with your Render URL
 const interval = 30000; // Interval in milliseconds (30 seconds)
 
 function reloadWebsite() {
